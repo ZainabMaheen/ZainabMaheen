@@ -15,7 +15,7 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind css logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo" />
 </div>
-
+<br><br>
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/ea/86/2c/ea862c2c1781bb4233ef774f8dfe7f19.gif" 
