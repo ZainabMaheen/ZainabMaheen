@@ -16,8 +16,9 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo" />
 </div>
 
-
-
+<p align="center">
+  <img src="https://assets-v2.lottiefiles.com/a/97fc9faa-117f-11ee-a3b3-5fb6ab9865dc/vR6mwrGRsr.gif" width="400" alt="Animation"/>
+</p>
 
 # 📊 GitHub Stats:
 <div align="center">
