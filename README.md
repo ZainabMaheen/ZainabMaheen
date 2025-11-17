@@ -18,9 +18,9 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
 
 <p align="center">
   <img 
-    src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" 
-    alt="Animation"
-    style="width: 400px; height: 400px; border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" 
+    src="https://i.pinimg.com/originals/ea/86/2c/ea862c2c1781bb4233ef774f8dfe7f19.gif" 
+    alt="Computer Animation"
+    style="width: 350px; height: 350px; border-radius: 30px;" 
   />
 </p>
 
