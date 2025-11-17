@@ -28,11 +28,8 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
 
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=zainabmaheen&icon=10&color=12" />
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=zainabmaheen&icon=10&color=12)](https://visitcount.itsvg.in)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
