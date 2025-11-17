@@ -17,7 +17,11 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
 </div>
 
 <p align="center">
-  <img src="https://lottie.host/3a09b2c4-7ad2-476f-ab09-e50ccaa32d6b/ujC5WvC9ft.gif" width="400" alt="Animation"/>
+  <img 
+    src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" 
+    alt="Animation"
+    style="width: 400px; height: 400px; border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" 
+  />
 </p>
 
 
