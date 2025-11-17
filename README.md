@@ -17,8 +17,9 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
 </div>
 
 <p align="center">
-  <img src="https://assets-v2.lottiefiles.com/a/97fc9faa-117f-11ee-a3b3-5fb6ab9865dc/vR6mwrGRsr.gif" width="400" alt="Animation"/>
+  <img src="https://lottie.host/3a09b2c4-7ad2-476f-ab09-e50ccaa32d6b/ujC5WvC9ft.gif" width="400" alt="Animation"/>
 </p>
+
 
 # 📊 GitHub Stats:
 <div align="center">
