@@ -28,7 +28,7 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zainabmaheen&icon=10&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ZainabMaheen&label=Profile%20Views&color=6&icon=10&pretty=true)](https://visitcount.itsvg.in)
 
 
 
