@@ -31,9 +31,6 @@ Hi, I'm Zainaab Maheen — a first-year Computer Science student with a strong p
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=zainabmaheen&label=Profile%20views&color=0e75b6&style=flat" alt="zainabmaheen" />
  &nbsp;&nbsp;
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ZainabMaheen&label=Visitors&icon=10&color=6&pretty=true" />
- </a>
 </p>
 
 
